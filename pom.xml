@@ -6,7 +6,8 @@
 
     <groupId>org.example</groupId>
     <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-war-plugin -->
-
+    <artifactId>jenkinsdemo</artifactId>
+    <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
